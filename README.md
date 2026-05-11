@@ -3,7 +3,7 @@
 A clean, responsive frontend-only clone of the Myntra e-commerce website. This project focuses on replicating the core UI/UX of Myntra to showcase modern web design skills.
 
 ## 🚀 Live Demo
-Check out the live project here: [https://github.io](https://github.io)
+Check out the live project here: [https://github.io](https://dhavalantala.github.io/myntra_clone/)
 
 ## ✨ Key Features
 *   **Fully Responsive:** Optimized for mobile, tablet, and desktop views.
