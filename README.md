@@ -1,1 +1,1 @@
-# mantra_clone
+# myntra_clone
